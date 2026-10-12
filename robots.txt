@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kheradmanderfan.github.io/ertranslate/sitemap.xml
