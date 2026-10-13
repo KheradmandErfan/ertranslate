@@ -1,0 +1,13 @@
+{
+  "name": "ErTranslate",
+  "short_name": "ErTranslate",
+  "description": "Text, voice, camera and conversation translator.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e2a78",
+  "theme_color": "#1e2a78",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
